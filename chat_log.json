@@ -1,0 +1,943 @@
+{
+    "conversations": {
+        "1": [
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T15:53:35.819973+00:00",
+                "type": "text",
+                "content": "kaila"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:00:06.723772+00:00",
+                "type": "text",
+                "content": "halo"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:00:54.778200+00:00",
+                "type": "text",
+                "content": "hai"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:00:59.432740+00:00",
+                "type": "text",
+                "content": "haiiii"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:01:46.974296+00:00",
+                "type": "text",
+                "content": "hei hei"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:23:12.734248+00:00",
+                "type": "text",
+                "content": "hei"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:23:15.975290+00:00",
+                "type": "text",
+                "content": "hei"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:54:23.151284+00:00",
+                "type": "text",
+                "content": "hai"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:54:59.621768+00:00",
+                "type": "text",
+                "content": "hai"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T16:56:46.089779+00:00",
+                "type": "text",
+                "content": "ini kea"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T17:11:18.074022+00:00",
+                "type": "text",
+                "content": "kaila2222"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T17:21:30.705613+00:00",
+                "type": "text",
+                "content": "kaila"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T17:21:53.949540+00:00",
+                "type": "text",
+                "content": "hoiii"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T17:31:53.829640+00:00",
+                "type": "text",
+                "content": "hoii"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-16T17:33:02.334262+00:00",
+                "type": "text",
+                "content": "heii"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-17T01:41:15.156694+00:00",
+                "type": "text",
+                "content": "hei hei"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:35:37.640096+00:00",
+                "type": "text",
+                "content": "woii",
+                "room_id": "1",
+                "recipient_id": 7
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:35:55.727784+00:00",
+                "type": "text",
+                "content": "ini kea 2",
+                "room_id": "1",
+                "recipient_id": 7
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T06:09:13.655996+00:00",
+                "type": "text",
+                "content": "hai kea2",
+                "filename": null,
+                "room_id": "1",
+                "recipient_id": 7
+            }
+        ],
+        "None": [
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-16T17:32:08.050603+00:00",
+                "type": "text",
+                "content": "hoii"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-16T17:33:25.792231+00:00",
+                "type": "text",
+                "content": "hai hai"
+            }
+        ],
+        "fa83ed67-f38a-49fb-b13e-a57f3754c703": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T23:40:38.377108+00:00",
+                "type": "text",
+                "content": "henlo",
+                "room_id": "fa83ed67-f38a-49fb-b13e-a57f3754c703",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "f6e2ea2c-5264-4a92-866b-b5c59ea2ea82": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T00:47:07.780347+00:00",
+                "type": "text",
+                "content": "yes",
+                "room_id": "f6e2ea2c-5264-4a92-866b-b5c59ea2ea82",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "3": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T01:20:11.954350+00:00",
+                "type": "text",
+                "content": "yesyesyes",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T01:42:21.614638+00:00",
+                "type": "text",
+                "content": "woiii",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T01:43:30.476093+00:00",
+                "type": "text",
+                "content": "woii",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T01:43:33.031798+00:00",
+                "type": "text",
+                "content": "yes"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:10:10.664603+00:00",
+                "type": "text",
+                "content": "halo halo",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:11:18.718630+00:00",
+                "type": "text",
+                "content": "halo halo 2"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:42:55.638098+00:00",
+                "type": "text",
+                "content": "halo"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:43:31.621646+00:00",
+                "type": "text",
+                "content": "woii",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:45:29.344983+00:00",
+                "type": "text",
+                "content": "halo halo",
+                "room_id": "3"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:45:57.943989+00:00",
+                "type": "text",
+                "content": "haloooo",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:46:29.399444+00:00",
+                "type": "text",
+                "content": "haloo2",
+                "room_id": "3"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:49:28.533009+00:00",
+                "type": "text",
+                "content": "yes",
+                "room_id": "3",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:50:33.146138+00:00",
+                "type": "text",
+                "content": "yes",
+                "room_id": "3",
+                "recipient_id": 10
+            }
+        ],
+        "5": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T01:23:28.132295+00:00",
+                "type": "text",
+                "content": "hoi hoi hoi",
+                "room_id": "5",
+                "recipient_id": 7
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-06-17T01:41:39.486272+00:00",
+                "type": "text",
+                "content": "heii"
+            }
+        ],
+        "7": [
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T02:53:09.596560+00:00",
+                "type": "text",
+                "content": "halo halo",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T02:53:54.498412+00:00",
+                "type": "text",
+                "content": "test",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:54:09.717933+00:00",
+                "type": "text",
+                "content": "halo juga",
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T02:55:10.834544+00:00",
+                "type": "text",
+                "content": "ini indira test 1 send to https",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T02:57:24.613288+00:00",
+                "type": "text",
+                "content": "ini indira 2",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:23:26.698720+00:00",
+                "type": "text",
+                "content": "okeoke",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:33:31.491933+00:00",
+                "type": "text",
+                "content": "helo",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:36:17.167094+00:00",
+                "type": "text",
+                "content": "oi oi ini kea",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:42:51.701492+00:00",
+                "type": "text",
+                "content": "hello",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:58:38.703076+00:00",
+                "type": "image",
+                "content": "/uploads/images/993164593ae34210b5b1c792adbc3f5c.jpg",
+                "filename": "download (1).jpg",
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:06:58.977879+00:00",
+                "type": "text",
+                "content": "heck yea",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:08:23.618225+00:00",
+                "type": "text",
+                "content": "test",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:08:53.265473+00:00",
+                "type": "text",
+                "content": "ok",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:11:36.015156+00:00",
+                "type": "text",
+                "content": "lololol",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:13:23.991875+00:00",
+                "type": "text",
+                "content": "test",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:13:40.964840+00:00",
+                "type": "text",
+                "content": "test",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:16:13.137968+00:00",
+                "type": "text",
+                "content": "hoiii",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:16:41.499825+00:00",
+                "type": "text",
+                "content": "test",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:16:55.093303+00:00",
+                "type": "text",
+                "content": "ttteessttt",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:23:19.116612+00:00",
+                "type": "file",
+                "content": "/uploads/files/bc3e165d21694e00a72109f713716968.txt",
+                "filename": "testtt.txt",
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:27:20.218844+00:00",
+                "type": "text",
+                "content": "henlo",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:27:51.999757+00:00",
+                "type": "text",
+                "content": "test",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:29:29.378283+00:00",
+                "type": "text",
+                "content": "testttt",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:29:44.864513+00:00",
+                "type": "text",
+                "content": "henloooo",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:30:03.281821+00:00",
+                "type": "text",
+                "content": "helow",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:30:11.322368+00:00",
+                "type": "text",
+                "content": "coba lagi",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:35:25.148402+00:00",
+                "type": "text",
+                "content": "yeseu",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:35:40.089821+00:00",
+                "type": "text",
+                "content": "test",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:38:42.735775+00:00",
+                "type": "text",
+                "content": "yesesssss",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:38:48.905685+00:00",
+                "type": "text",
+                "content": "heeellow",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:44:03.438687+00:00",
+                "type": "text",
+                "content": "yesyes",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:44:04.400216+00:00",
+                "type": "text",
+                "content": "tst",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:44:30.497997+00:00",
+                "type": "text",
+                "content": "coba lagi",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T04:46:20.368268+00:00",
+                "type": "text",
+                "content": "oke,,,",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:46:41.312267+00:00",
+                "type": "text",
+                "content": "kirim",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T05:13:53.275948+00:00",
+                "type": "text",
+                "content": "woy",
+                "filename": null,
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T05:13:54.967887+00:00",
+                "type": "text",
+                "content": "woy",
+                "filename": null,
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T05:14:07.034009+00:00",
+                "type": "text",
+                "content": "testtttting",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T05:14:13.727943+00:00",
+                "type": "image",
+                "content": "/uploads/images/9d6ddd8057884c0d8a15fddfe2f942e4.png",
+                "filename": "Group 16.png",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T05:14:17.073071+00:00",
+                "type": "image",
+                "content": "/uploads/images/ca2ee3068199467183b59f72c47e8fdf.jpg",
+                "filename": "download (1).jpg",
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T05:14:39.957190+00:00",
+                "type": "image",
+                "content": "/uploads/images/81ee77ea1f9241a9bf881b06d486dfac.png",
+                "filename": "Group 16.png",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T05:15:05.229764+00:00",
+                "type": "file",
+                "content": "/uploads/files/1dfd266451104a028123617b9efb230c.yaml",
+                "filename": "burger (1).yaml",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T05:15:46.157623+00:00",
+                "type": "text",
+                "content": "oekoekoeeoke",
+                "filename": null,
+                "room_id": "7"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T05:15:57.936271+00:00",
+                "type": "image",
+                "content": "/uploads/images/b0f1fad511504e7685acc0a3dd62c422.jpg",
+                "filename": "download.jpg",
+                "room_id": "7"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T05:16:00.211247+00:00",
+                "type": "image",
+                "content": "/uploads/images/5e46eab5f3894adca705453695455433.png",
+                "filename": "Add_Friend.png",
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T06:13:33.276123+00:00",
+                "type": "text",
+                "content": "dahlah",
+                "filename": null,
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T06:13:39.531155+00:00",
+                "type": "text",
+                "content": "dahlah",
+                "filename": null,
+                "room_id": "7",
+                "recipient_id": 9
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T06:13:48.592960+00:00",
+                "type": "text",
+                "content": "gatau sih",
+                "filename": null,
+                "room_id": "7",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-07-01T16:49:03.173093+00:00",
+                "type": "text",
+                "content": "woi",
+                "filename": null,
+                "room_id": "7"
+            }
+        ],
+        "6": [
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:40:29.558826+00:00",
+                "type": "text",
+                "content": "ini siapa",
+                "filename": null,
+                "room_id": "6"
+            }
+        ],
+        "8": [
+            {
+                "sender_id": 14,
+                "sender_username": "hiduplagi",
+                "timestamp": "2025-06-17T04:59:13.792630+00:00",
+                "type": "text",
+                "content": "halo ahmad",
+                "room_id": "8",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T04:59:18.197630+00:00",
+                "type": "text",
+                "content": "hallow",
+                "filename": null,
+                "room_id": "8"
+            },
+            {
+                "sender_id": 14,
+                "sender_username": "hiduplagi",
+                "timestamp": "2025-06-17T04:59:51.584354+00:00",
+                "type": "text",
+                "content": "halo fikri",
+                "room_id": "8",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T05:01:44.123624+00:00",
+                "type": "image",
+                "content": "/uploads/images/76ba52805e4b4314a7efa72587ba1c42.jpg",
+                "filename": "download (1).jpg",
+                "room_id": "8"
+            },
+            {
+                "sender_id": 14,
+                "sender_username": "hiduplagi",
+                "timestamp": "2025-06-17T05:05:54.593634+00:00",
+                "type": "file",
+                "content": "/uploads/files/0af762beab644fbc9c65443ad1723855.txt",
+                "filename": "testtt.txt",
+                "room_id": "8"
+            },
+            {
+                "sender_id": 14,
+                "sender_username": "hiduplagi",
+                "timestamp": "2025-06-17T05:08:39.389850+00:00",
+                "type": "text",
+                "content": "tes",
+                "filename": null,
+                "room_id": "8"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T05:08:51.706149+00:00",
+                "type": "text",
+                "content": "testtt",
+                "filename": null,
+                "room_id": "8"
+            }
+        ],
+        "9": [
+            {
+                "sender_id": 16,
+                "sender_username": "janganmati",
+                "timestamp": "2025-06-17T05:20:31.668844+00:00",
+                "type": "text",
+                "content": "halo ahmad apa kabar",
+                "filename": null,
+                "room_id": "9",
+                "recipient_id": 17
+            },
+            {
+                "sender_id": 16,
+                "sender_username": "janganmati",
+                "timestamp": "2025-06-17T05:20:37.857983+00:00",
+                "type": "text",
+                "content": "halohalohalohalo",
+                "filename": null,
+                "room_id": "9",
+                "recipient_id": 17
+            },
+            {
+                "sender_id": 16,
+                "sender_username": "janganmati",
+                "timestamp": "2025-06-17T05:20:48.949642+00:00",
+                "type": "image",
+                "content": "/uploads/images/784483835684433d805f5c32cd069784.png",
+                "filename": "Group 16.png",
+                "room_id": "9",
+                "recipient_id": 17
+            },
+            {
+                "sender_id": 16,
+                "sender_username": "janganmati",
+                "timestamp": "2025-06-17T05:21:00.539107+00:00",
+                "type": "file",
+                "content": "/uploads/files/50ab27764b3c4765a0268adef53449c7.pdf",
+                "filename": "paper-TA.pdf",
+                "room_id": "9",
+                "recipient_id": 17
+            },
+            {
+                "sender_id": 16,
+                "sender_username": "janganmati",
+                "timestamp": "2025-06-17T05:21:40.550792+00:00",
+                "type": "file",
+                "content": "/uploads/files/df20ea40fbd042cc8d8c2d1c857460c7.png",
+                "filename": "interfacing-UI-mobilerobot.png",
+                "room_id": "9",
+                "recipient_id": 17
+            },
+            {
+                "sender_id": 16,
+                "sender_username": "janganmati",
+                "timestamp": "2025-06-17T05:22:23.126380+00:00",
+                "type": "image",
+                "content": "/uploads/images/0cc3322248c64c64a190d9c8ab92f54c.jpg",
+                "filename": "kocheng.jpg",
+                "room_id": "9",
+                "recipient_id": 17
+            }
+        ],
+        "4": [
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-07-01T16:48:02.782694+00:00",
+                "type": "text",
+                "content": "yes",
+                "filename": null,
+                "room_id": "4",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-07-01T16:49:10.213003+00:00",
+                "type": "text",
+                "content": "ya?",
+                "filename": null,
+                "room_id": "4",
+                "recipient_id": 10
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-07-01T16:55:53.584298+00:00",
+                "type": "text",
+                "content": "oh masuk jir",
+                "filename": null,
+                "room_id": "4"
+            },
+            {
+                "sender_id": 7,
+                "sender_username": "kaila",
+                "timestamp": "2025-07-01T16:56:06.257985+00:00",
+                "type": "text",
+                "content": "bejirr",
+                "filename": null,
+                "room_id": "4",
+                "recipient_id": 10
+            }
+        ]
+    }
+}

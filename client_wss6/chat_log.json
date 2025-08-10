@@ -1,0 +1,526 @@
+{
+    "conversations": {
+        "24768b3d-269a-4890-93b4-81b866b9d24b": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T21:32:33.926681+00:00",
+                "type": "text",
+                "content": "adadaa",
+                "room_id": "24768b3d-269a-4890-93b4-81b866b9d24b",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:49:11.823303+00:00",
+                "type": "text",
+                "content": "yaelah",
+                "room_id": "24768b3d-269a-4890-93b4-81b866b9d24b",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:52:07.731007+00:00",
+                "type": "text",
+                "content": "yee",
+                "room_id": "24768b3d-269a-4890-93b4-81b866b9d24b",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "288077c3-f171-46f3-8b72-fce87bc8132b": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T21:33:20.140715+00:00",
+                "type": "text",
+                "content": "ini bakal kesimpen gak",
+                "room_id": "288077c3-f171-46f3-8b72-fce87bc8132b",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "6e5d86c4-6ada-41ac-bc7b-ce953c0aa2da": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T21:45:00.073497+00:00",
+                "type": "text",
+                "content": "apa iya",
+                "room_id": "6e5d86c4-6ada-41ac-bc7b-ce953c0aa2da",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "8313d6dc-7665-41ea-bd15-bbf54b21eead": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:34:04.669430+00:00",
+                "type": "text",
+                "content": "hei hei",
+                "room_id": "8313d6dc-7665-41ea-bd15-bbf54b21eead",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "55652dc6-a7e8-48a4-beea-68d1745137a4": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:34:07.791206+00:00",
+                "type": "text",
+                "content": "hei hei",
+                "room_id": "55652dc6-a7e8-48a4-beea-68d1745137a4",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "dab79ab7-7e67-47f5-8601-27f893b6ca71": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:34:19.313931+00:00",
+                "type": "text",
+                "content": "cok",
+                "room_id": "dab79ab7-7e67-47f5-8601-27f893b6ca71",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "e3b2ed82-b849-49f7-b683-90ce525ebd30": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:36:54.123327+00:00",
+                "type": "text",
+                "content": "halo ahmad",
+                "room_id": "e3b2ed82-b849-49f7-b683-90ce525ebd30",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "3af17fc7-701f-4a27-a830-656aa270e75f": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:45:34.793119+00:00",
+                "type": "text",
+                "content": "hai ahmad",
+                "room_id": "3af17fc7-701f-4a27-a830-656aa270e75f",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "772b7e64-705c-4df4-994f-50628b9fc272": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:45:37.742989+00:00",
+                "type": "text",
+                "content": "akhirnya bener",
+                "room_id": "772b7e64-705c-4df4-994f-50628b9fc272",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "acfe05ec-1f36-475d-b35f-524cf542e172": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-16T22:45:40.176893+00:00",
+                "type": "text",
+                "content": "bye ahmad",
+                "room_id": "acfe05ec-1f36-475d-b35f-524cf542e172",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "f2af2a41-f806-4804-aab5-c32fc5f3f04a": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:32:33.388578+00:00",
+                "type": "text",
+                "content": "hai kaila",
+                "room_id": "f2af2a41-f806-4804-aab5-c32fc5f3f04a",
+                "recipient_id": "kaila"
+            }
+        ],
+        "8b1b26c6-2a18-46ab-a938-aaa1ed855239": [
+            {
+                "sender_id": 12,
+                "sender_username": "dahlah",
+                "timestamp": "2025-06-17T02:37:28.673760+00:00",
+                "type": "text",
+                "content": "hai indira",
+                "room_id": "8b1b26c6-2a18-46ab-a938-aaa1ed855239",
+                "recipient_id": "indira123"
+            },
+            {
+                "sender_id": 12,
+                "sender_username": "dahlah",
+                "timestamp": "2025-06-17T02:37:33.045150+00:00",
+                "type": "text",
+                "content": "indira jwb gw plis",
+                "room_id": "8b1b26c6-2a18-46ab-a938-aaa1ed855239",
+                "recipient_id": "indira123"
+            },
+            {
+                "sender_id": 12,
+                "sender_username": "dahlah",
+                "timestamp": "2025-06-17T02:37:44.874015+00:00",
+                "type": "text",
+                "content": "km udh makan blm",
+                "room_id": "8b1b26c6-2a18-46ab-a938-aaa1ed855239",
+                "recipient_id": "indira123"
+            },
+            {
+                "sender_id": 12,
+                "sender_username": "dahlah",
+                "timestamp": "2025-06-17T02:38:35.766038+00:00",
+                "type": "text",
+                "content": "eh",
+                "room_id": "8b1b26c6-2a18-46ab-a938-aaa1ed855239",
+                "recipient_id": "indira123"
+            }
+        ],
+        "c298072c-a8da-42c9-aa73-71f360b4ded6": [
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:37:40.025502+00:00",
+                "type": "text",
+                "content": "hai beb",
+                "room_id": "c298072c-a8da-42c9-aa73-71f360b4ded6",
+                "recipient_id": "dahlah"
+            },
+            {
+                "sender_id": 11,
+                "sender_username": "indira123",
+                "timestamp": "2025-06-17T02:37:54.711532+00:00",
+                "type": "text",
+                "content": "blm beb",
+                "room_id": "c298072c-a8da-42c9-aa73-71f360b4ded6",
+                "recipient_id": "dahlah"
+            }
+        ],
+        "4d0a1aac-b55d-4d0f-98b0-9269d14ea775": [
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:49:55.581851+00:00",
+                "type": "text",
+                "content": "halo kaila",
+                "room_id": "4d0a1aac-b55d-4d0f-98b0-9269d14ea775",
+                "recipient_id": "kaila"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T02:50:00.672855+00:00",
+                "type": "text",
+                "content": "kaila lg apa",
+                "room_id": "4d0a1aac-b55d-4d0f-98b0-9269d14ea775",
+                "recipient_id": "kaila"
+            }
+        ],
+        "b283317f-7e90-4e82-8235-7d460b9af638": [
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:27:13.653292+00:00",
+                "type": "text",
+                "content": "what",
+                "room_id": "b283317f-7e90-4e82-8235-7d460b9af638",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:27:54.376678+00:00",
+                "type": "text",
+                "content": "hah",
+                "room_id": "b283317f-7e90-4e82-8235-7d460b9af638",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:44:06.480590+00:00",
+                "type": "image",
+                "content": "Group 10 (1).png",
+                "room_id": "b283317f-7e90-4e82-8235-7d460b9af638",
+                "recipient_id": "iniahmad"
+            }
+        ],
+        "6413be92-b506-431b-9609-9c41b0e1671a": [
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:27:41.553337+00:00",
+                "type": "text",
+                "content": "what",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:37:02.045364+00:00",
+                "type": "text",
+                "content": "what",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:37:12.193081+00:00",
+                "type": "file",
+                "content": "a_star.py",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:37:30.731424+00:00",
+                "type": "image",
+                "content": "Group 15.png",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:37:56.743070+00:00",
+                "type": "file",
+                "content": "grid_vis_update.txt",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:38:03.487088+00:00",
+                "type": "file",
+                "content": "Group 3.png",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:39:12.677068+00:00",
+                "type": "text",
+                "content": "hah",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:39:17.774694+00:00",
+                "type": "text",
+                "content": "kenapa salah kirim",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:39:31.364228+00:00",
+                "type": "image",
+                "content": "image.png",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:45:16.122460+00:00",
+                "type": "text",
+                "content": "hai",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:45:56.052903+00:00",
+                "type": "text",
+                "content": "hai indira",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:46:35.483709+00:00",
+                "type": "text",
+                "content": "pas indira kirim ke ahmad ga kekirim ya",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:46:53.863855+00:00",
+                "type": "file",
+                "content": "grid_vis_update.txt",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:47:28.914521+00:00",
+                "type": "image",
+                "content": "Group 9 (1).png",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:49:36.155983+00:00",
+                "type": "text",
+                "content": "iya kayaknya",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:49:50.364293+00:00",
+                "type": "file",
+                "content": "node_integrate.py",
+                "room_id": "6413be92-b506-431b-9609-9c41b0e1671a",
+                "recipient_id": "indira"
+            }
+        ],
+        "fe1e473f-c972-46f6-a51b-da2f80957b15": [
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:43:58.748743+00:00",
+                "type": "text",
+                "content": "what",
+                "room_id": "fe1e473f-c972-46f6-a51b-da2f80957b15",
+                "recipient_id": "ahmad"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:44:21.748568+00:00",
+                "type": "text",
+                "content": "awas ya jangan ganti2",
+                "room_id": "fe1e473f-c972-46f6-a51b-da2f80957b15",
+                "recipient_id": "ahmad"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:44:25.180177+00:00",
+                "type": "image",
+                "content": "Group 6 (2)(2).png",
+                "room_id": "fe1e473f-c972-46f6-a51b-da2f80957b15",
+                "recipient_id": "ahmad"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:44:31.181469+00:00",
+                "type": "text",
+                "content": "heh",
+                "room_id": "fe1e473f-c972-46f6-a51b-da2f80957b15",
+                "recipient_id": "ahmad"
+            },
+            {
+                "sender_id": 10,
+                "sender_username": "iniahmad",
+                "timestamp": "2025-06-17T03:45:27.990368+00:00",
+                "type": "file",
+                "content": "grid_vis_update.txt",
+                "room_id": "fe1e473f-c972-46f6-a51b-da2f80957b15",
+                "recipient_id": "ahmad"
+            }
+        ],
+        "c036320c-df3c-4a6c-8428-f5b8cdd8bc49": [
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:46:16.752212+00:00",
+                "type": "text",
+                "content": "hai ahmad",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:46:26.268066+00:00",
+                "type": "text",
+                "content": "kok gaada si databasenya",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:46:47.672566+00:00",
+                "type": "text",
+                "content": "hai iniahmad",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:47:02.934118+00:00",
+                "type": "image",
+                "content": "Group 16.png",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:49:19.359640+00:00",
+                "type": "text",
+                "content": "hah kenapa sih",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:49:30.874859+00:00",
+                "type": "text",
+                "content": "pokoknya pas abis kirim file atau image udh gabisa lagi ya",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:49:58.964086+00:00",
+                "type": "text",
+                "content": "lah file bisa",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:50:55.438030+00:00",
+                "type": "file",
+                "content": "Group 5.png",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            },
+            {
+                "sender_id": 9,
+                "sender_username": "indira",
+                "timestamp": "2025-06-17T03:50:59.155956+00:00",
+                "type": "image",
+                "content": "Group 15.png",
+                "room_id": "c036320c-df3c-4a6c-8428-f5b8cdd8bc49",
+                "recipient_id": "iniahmad"
+            }
+        ]
+    }
+}
